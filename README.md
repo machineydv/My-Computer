@@ -12,7 +12,7 @@ Everything brought together!
 * **[My Articles](https://github.com/machineydv/My-Articles)**
 * **[My Books](https://github.com/machineydv/My-Books)** (Private)
 * **[My CTFs](https://github.com/machineydv/My-CTFs)**
-* **[My Documents](https://github.com/machineydv/My-Documents)**
+* **[My Documents](https://github.com/machineydv/My-Documents)** (Private)
 * **[My Family](https://github.com/machineydv/My-Family)**
 * **[My Forks](https://github.com/machineydv/My-Forks)**
 * **[My Knowledge](https://github.com/machineydv/My-Knowledge)**
