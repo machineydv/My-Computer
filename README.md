@@ -23,6 +23,6 @@ Everything brought together!
 * **[My Scripts](https://github.com/machineydv/My-Scripts)**
 * **[My Study](https://github.com/machineydv/My-Study)** (Private)
 * **[My Tools](https://github.com/machineydv/My-Tools)**
-* **[My Working](https://github.com/machineydv/My-Working)**
-* **[Root](https://github.com/machineydv/root)**
-* **[Softwares](https://github.com/machineydv/Softwares)**
+* **[My Working](https://github.com/machineydv/My-Working)** (Private)
+* **[Root](https://github.com/machineydv/root)** (Private)
+* **[Softwares](https://github.com/machineydv/Softwares)** (Will make public soon)
