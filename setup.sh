@@ -12,10 +12,9 @@ if [[ $PASSMEPASS == "" ]]; then
 	exit
 fi
 GITHUB_PASSWORD=":""$PASSMEPASS""@"
-zopiclone='I-Am-New-To-Bug-Bounty|Saved-Games|My-Books'
 
 echo "Cloning repostitores... "
-cat README.md  | egrep -v $zopiclone |  awk -F '(' '{print $2}' | awk -F ')**' '{print $1}' | sort -u | while read repository
+cat README.md |  awk -F '(' '{print $2}' | awk -F ')**' '{print $1}' | sort -u | while read repository
 do
 	if [ ! -z "$repository" ]; then
 		git clone `echo "$repository"".git" | sed s/'github.com'/"machineydv:$PASSMEPASS@github.com"/g | sed s/':@'/$GITHUB_PASSWORD/g`

@@ -9,7 +9,6 @@ Everything brought together!
 * **[machineydv.github.io](https://github.com/machineydv/machineydv.github.io)**
 
 # Repositories
-* **[I am New To Bug Bounty](https://github.com/machineydv/I-Am-New-To-Bug-Bounty)**
 * **[My Articles](https://github.com/machineydv/My-Articles)**
 * **[My Books](https://github.com/machineydv/My-Books)**
 * **[My CTFs](https://github.com/machineydv/My-CTFs)**
