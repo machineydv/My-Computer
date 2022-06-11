@@ -30,10 +30,6 @@ cd "$CURRENTDIR""/My-Knowledge/KaliSetup/"
 	bash post-config.data |& tee -a "$LOG"
 cd $CURRENTDIR
 
-cd "$CURRENT""/My-Backup/"
-	bash restore.sh |& tee -a "$LOG"
-cd $CURRENTDIR
-
 cd "$CURRENTDIR""/My-Knowledge/KaliSetup/"
 	bash tool.data |& tee -a "$LOG"
 cd $CURRENTDIR
