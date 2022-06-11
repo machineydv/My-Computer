@@ -1,6 +1,6 @@
 # My Computer
 Everything brought together!
-- Note: :warning: Due to some problem, my old account got nuked, so many of tools, scripts and stuff I created are gone. I will reupdate them if I get time.
+- Note: :warning: Due to some problem, my old account got nuked, so many of tools, scripts and stuff I created are gone. I will reupdate them if I get time. [NUKED](https://github.com/machineydv/machineydv/blob/master/NUKED.md)
 
 # Profile
 * **[machineydv](https://github.com/machineydv/machineydv)**
