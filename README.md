@@ -1,5 +1,5 @@
 # My Computer
-All Repositories brought together!
+Everything brought together!
 
 # Profile
 * **[machineydv](https://github.com/machineydv/machineydv)**
