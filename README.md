@@ -1,6 +1,12 @@
 # My Computer
 All Repositories brought together!
 
+# Profile
+* **[machineydv](https://github.com/machineydv/machineydv)**
+
+# Website
+* **[machineydv.github.io](https://github.com/machineydv/machineydv.github.io)**
+
 * **[I am New To Bug Bounty](https://github.com/machineydv/I-Am-New-To-Bug-Bounty)**
 * **[My Articles](https://github.com/machineydv/My-Articles)**
 * **[My Backup](https://github.com/machineydv/My-Backup)**
@@ -23,8 +29,3 @@ All Repositories brought together!
 * **[Saved Games](https://github.com/machineydv/Saved-Games)**
 * **[Softwares](https://github.com/machineydv/Softwares)**
 
-# Website
-* **[machineydv.github.io](https://github.com/machineydv/machineydv.github.io)**
-
-# Profile
-* **[machineydv](https://github.com/machineydv/machineydv)**
