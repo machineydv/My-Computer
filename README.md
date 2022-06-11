@@ -22,9 +22,7 @@ All Repositories brought together!
 * **[My Projects](https://github.com/machineydv/My-Projects)**
 * **[My Scripts](https://github.com/machineydv/My-Scripts)**
 * **[My Study](https://github.com/machineydv/My-Study)**
-* **[My ToDOs](https://github.com/machineydv/My-ToDOs)**
 * **[My Tools](https://github.com/machineydv/My-Tools)**
-* **[My VPNs](https://github.com/machineydv/My-VPNs)**
 * **[My Working](https://github.com/machineydv/My-Working)**
 * **[Saved Games](https://github.com/machineydv/Saved-Games)**
 * **[Softwares](https://github.com/machineydv/Softwares)**
