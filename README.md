@@ -16,12 +16,12 @@ Everything brought together!
 * **[My Family](https://github.com/machineydv/My-Family)** (Private)
 * **[My Forks](https://github.com/machineydv/My-Forks)**
 * **[My Knowledge](https://github.com/machineydv/My-Knowledge)**
-* **[My Libraries](https://github.com/machineydv/My-Libraries)**
-* **[My Music](https://github.com/machineydv/My-Music)**
-* **[My Pictures](https://github.com/machineydv/My-Pictures)**
+* **[My Libraries](https://github.com/machineydv/My-Libraries)** 
+* **[My Music](https://github.com/machineydv/My-Music)** (Private)
+* **[My Pictures](https://github.com/machineydv/My-Pictures)** (Private)
 * **[My Projects](https://github.com/machineydv/My-Projects)**
 * **[My Scripts](https://github.com/machineydv/My-Scripts)**
-* **[My Study](https://github.com/machineydv/My-Study)**
+* **[My Study](https://github.com/machineydv/My-Study)** (Private)
 * **[My Tools](https://github.com/machineydv/My-Tools)**
 * **[My Working](https://github.com/machineydv/My-Working)**
 * **[Root](https://github.com/machineydv/root)**
